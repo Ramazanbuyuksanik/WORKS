@@ -1,0 +1,5 @@
+burak 100
+ali 33
+ayse 67
+ali 69
+veli 50

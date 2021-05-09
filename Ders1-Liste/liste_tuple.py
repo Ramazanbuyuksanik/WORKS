@@ -60,7 +60,7 @@ sinema_izleyiciler = ['Ramazan', 'Burak', 'ahmet', 'Mehmet', 'James','James','Ja
 # When executed gives error -> AttributeError: 'tuple' object has no attribute 'remove'
 
 # bizim_tuple = set(sinema_izleyiciler)
-# # print(type(bizim_tuple))
+# # print(type(bizim_tuple))2
 # print(sinema_izleyiciler)
 # print(bizim_tuple)
 
